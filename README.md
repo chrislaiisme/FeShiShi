@@ -1,6 +1,6 @@
 # Foshishi
 
-![](https://i.imgur.com/01gTodY.png)
+![](https://i.imgur.com/Au0hA72.png)
 
 ㅤㅤㄈ十十網站致力於為全世界的學生、程式語言初學者學習入門程式語言的網站，本網站由三位能活用html、C++、Python……等多種程式語言的學生所架設，針對C++的架構、基本語法、與其他層面上提供實作。
 
