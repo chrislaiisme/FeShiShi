@@ -2,6 +2,8 @@
 
 ![](https://i.imgur.com/Au0hA72.png)
 
+https://chrislaiisme.github.io/FoShiShi/
+
 ㅤㅤㄈ十十網站致力於為全世界的學生、程式語言初學者學習入門程式語言的網站，本網站由三位能活用html、C++、Python……等多種程式語言的學生所架設，針對C++的架構、基本語法、與其他層面上提供實作。
 
 ㅤㅤㄈ十十講義使用2W1H(What, When, How)和實際應用的教學方式使初學者能夠最好的理解這些觀念，講義本身由HackMD維護並公開發表於[chrislaiisme的HackMD主頁](https://hackmd.io/@chrislaiisme?tags=%5B%22FoShiShi%22%5D)。
